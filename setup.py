@@ -16,7 +16,7 @@ setup(
     author_email='ew2789@gmail.com',
     packages=find_packages(),
     include_package_data=True,
-    url='https://github.com/ambition-trail/ambition-sites',
+    url='https://github.com/ambition-trial/ambition-sites',
     license='GPL license, see LICENSE',
     description='ambition sites',
     long_description=README,
