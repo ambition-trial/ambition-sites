@@ -1,2 +1,0 @@
-# ambition-sites
-Site configurations
