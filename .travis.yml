@@ -13,6 +13,7 @@ services:
 
 install:
 - pip install --upgrade pip
+- pip install mysqlclient
 - pip install flake8 coveralls tox-travis
 
 before_script:
