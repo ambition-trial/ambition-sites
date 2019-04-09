@@ -25,7 +25,7 @@ DEFAULT_SETTINGS = DefaultTestSettings(
         'django.contrib.sessions',
         'django.contrib.sites',
         'django.contrib.staticfiles',
-        # 'ambition_sites.apps.AppConfig',
+        'ambition_sites.apps.AppConfig',
     ],
     # add_dashboard_middleware=True,
     # use_test_urls=True,

@@ -25,7 +25,7 @@ setup(
     long_description=README,
     zip_safe=False,
     keywords='django ambition',
-    install_requires=['edc-base'],
+    install_requires=[],
     classifiers=[
         'Environment :: Web Environment',
         'Framework :: Django',
